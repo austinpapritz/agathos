@@ -20,7 +20,7 @@ Below is a screenshot from the Figma design phase, showing the layout and design
 
 For a real-time demonstration of the 3D animations and interactions, please check out the following video:
 
-[![Agathos Spline Demo](http://img.youtube.com/vi/URL/0.jpg)](public/agathos4.mp4)
+[![Agathos Spline Demo](http://img.youtube.com/vi/URL/0.jpg)](public/agathos-short.mp4)
 
 ## Usage
 
